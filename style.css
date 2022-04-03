@@ -48,6 +48,9 @@ body {
 .testimonial--violet {
   background-color: var(--violet);
   color: var(--white);
+  background-image: url("/images/bg-pattern-quotation.svg");
+  background-repeat: no-repeat;
+  background-position: top right 5em;
 }
 
 .testimonial--dark-gray {
